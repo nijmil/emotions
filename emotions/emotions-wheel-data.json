@@ -1,0 +1,87 @@
+[
+    {
+      "core": "Happy",
+      "level2": ["Playful", "Content", "Interested", "Proud", "Accepted", "Powerful", "Peaceful", "Trusting", "Optimistic"],
+      "level3": {
+        "Playful": ["Aroused", "Cheeky"],
+        "Content": ["Free", "Joyful"],
+        "Interested": ["Curious", "Inquisitive"],
+        "Proud": ["Successful", "Confident"],
+        "Accepted": ["Respected", "Valued"],
+        "Powerful": ["Courageous", "Creative"],
+        "Peaceful": ["Loving", "Thankful"],
+        "Trusting": ["Sensitive", "Intimate"],
+        "Optimistic": ["Hopeful", "Inspired"]
+      }
+    },
+    {
+      "core": "Sad",
+      "level2": ["Lonely", "Vulnerable", "Despair", "Guilty", "Depressed", "Hurt"],
+      "level3": {
+        "Lonely": ["Abandoned", "Isolated"],
+        "Vulnerable": ["Victimised", "Fragile"],
+        "Despair": ["Grief", "Powerless"],
+        "Guilty": ["Remorseful", "Ashamed"],
+        "Depressed": ["Empty", "Inferior"],
+        "Hurt": ["Embarrassed", "Disappointed"]
+      }
+    },
+    {
+      "core": "Angry",
+      "level2": ["Let Down", "Humiliated", "Bitter", "Mad", "Aggressive", "Frustrated", "Distant", "Critical"],
+      "level3": {
+        "Let Down": ["Betrayed", "Resentful"],
+        "Humiliated": ["Disrespected", "Ridiculed"],
+        "Bitter": ["Indignant", "Violated"],
+        "Mad": ["Furious", "Jealous"],
+        "Aggressive": ["Provoked", "Hostile"],
+        "Frustrated": ["Infuriated", "Annoyed"],
+        "Distant": ["Withdrawn", "Numb"],
+        "Critical": ["Skeptical", "Dismissive"]
+      }
+    },
+    {
+      "core": "Fearful",
+      "level2": ["Scared", "Anxious", "Insecure", "Weak", "Rejected", "Threatened"],
+      "level3": {
+        "Scared": ["Helpless", "Frightened"],
+        "Anxious": ["Overwhelmed", "Worried"],
+        "Insecure": ["Inferior", "Inadequate"],
+        "Weak": ["Worthless", "Insignificant"],
+        "Rejected": ["Excluded", "Persecuted"],
+        "Threatened": ["Nervous", "Exposed"]
+      }
+    },
+    {
+      "core": "Disgusted",
+      "level2": ["Disapproving", "Disappointed", "Awful", "Repelled"],
+      "level3": {
+        "Disapproving": ["Judgmental", "Embarrassed"],
+        "Disappointed": ["Appalled", "Revolted"],
+        "Awful": ["Nauseated", "Repulsed"],
+        "Repelled": ["Horrified", "Hesitant"]
+      }
+    },
+    {
+      "core": "Bad",
+      "level2": ["Bored", "Busy", "Stressed", "Tired"],
+      "level3": {
+        "Bored": ["Indifferent", "Apathetic"],
+        "Busy": ["Pressured", "Rushed"],
+        "Stressed": ["Overwhelmed", "Out of Control"],
+        "Tired": ["Sleepy", "Unfocussed"]
+      }
+    },
+    {
+      "core": "Surprised",
+      "level2": ["Startled", "Confused", "Amazed", "Excited"],
+      "level3": {
+        "Startled": ["Shocked", "Dismayed"],
+        "Confused": ["Disillusioned", "Perplexed"],
+        "Amazed": ["Astonished", "Awe"],
+        "Excited": ["Eager", "Energetic"]
+      }
+    }
+  ]
+  
+  
